@@ -19,10 +19,12 @@ body {
 .nomdroite {
   background-color: #80bcc5;
   color: white;
+  text-align:center;
 }
 
 .point {
   list-style: none;
+  
 }
 
 .profil {
@@ -75,5 +77,5 @@ hr {
 }
 
 .list-item1 {
-  color: #bae0e4;
+  color: white;
 }
